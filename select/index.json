@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "リスポーン",
+  "base_artist": "Saucy Dog",
+  "createdAt": "2025-12-29T08:03:30.226778Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リスポーン",
+      "artist": "Saucy Dog",
+      "has_synced": false,
+      "path": "select/pl_01_リスポーン_Saucy_Dog.txt"
+    }
+  ]
+}
